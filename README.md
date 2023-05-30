@@ -1,0 +1,1 @@
+# practice-comparing-different-values.js
